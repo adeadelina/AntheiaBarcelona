@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Anthéia Barcelona</string>
+        <string name="slogan">Hand made jewels for a fresh look everyday</string>
+        <string name="instagram_link">Visit instagram</string>
+        <string name="address">6 Carrer de Verdi, 08012, Barcelona, Spain</string>
+        <string name="telephone">+34644245678</string>
+        <string name="location">See location</string>
+
+</resources>
